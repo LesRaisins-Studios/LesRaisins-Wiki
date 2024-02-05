@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "LesRaisins",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "LesRaisins",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.指南": {
+    "message": "指南",
+    "description": "Navbar item with label 指南"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
