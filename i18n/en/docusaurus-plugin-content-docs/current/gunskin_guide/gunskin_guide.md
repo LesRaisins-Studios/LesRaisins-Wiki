@@ -16,7 +16,7 @@ For the purposes of this guide, we will refer to these models as `model parts` o
 
 
 ## Making a gun skin
-For information on how to get the source material right and start skinning, see [Section: Skinning Help](. /gunskin_guide/paint.md)
+For information on how to get the source material right and start skinning, see [Section: Skinning Help](paint.md)
 
 ## Describe file format
 To allow the module to read the gun skins in the resource pack, you need to add a json file to the resource pack to describe the skins.  
@@ -24,7 +24,7 @@ The specific path is
 `assets/<namespace>/models/gunskin/skin.json`.  
 You can put this file in any namespace you want, which will determine the namespace of your next skin. (where `<namespace>` for TaC is `tac`)
 
-For details on `description files`, see [section: Description file format](. /gunskin_guide/description_file.md)
+For details on `description files`, see [section: Description file format](description_file.md)
 
 
 ## Getting a skined gun
