@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'LesRaisins', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -69,7 +69,7 @@ const config = {
         title: 'LesRaisins',
         logo: {
           alt: 'LesRaisins',
-          src: 'img/logo.svg',
+          src: 'img/logo.svg'
         },
         items: [
           {
@@ -98,7 +98,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs',
               },
             ],
           },
